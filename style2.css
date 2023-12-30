@@ -1,0 +1,12 @@
+h1{color:red;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font: weight 400px;}
+
+img{width:300px ;
+    height: 400px;
+   filter:drop-shadow(20px 20px 20px rgb(212, 200, 200))
+}
+/* img{display:block;margin:auto;width:50%
+} */
+img1{width: 50px; height: 50px;}
+body{background-color:rgb(56, 59, 59);}
